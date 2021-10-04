@@ -1,3 +1,6 @@
 This is something new I added just now, wow
 
+
+But now I've changed it in my new branch, and I'm changing it some more!!!
+
 Now I'm adding some stuff in the master branch, but this file was also altered in the new branch, oh nooooo
